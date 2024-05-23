@@ -61,6 +61,7 @@ public class CulinaryExpansion
 
     private void commonSetup(final FMLCommonSetupEvent event)
     {
+        //HELLO ALL!
         // Some common setup code
         LOGGER.info("HELLO FROM COMMON SETUP");
 
